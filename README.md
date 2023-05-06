@@ -7,4 +7,4 @@ I'm Tregan
 
 - :hammer_and_pick: TypeScript / React / Go / Vue
 - :thought_balloon: Ask me anything at [Discussions](https://github.com/treemmett/treemmett/discussions/new)!
-- :key: GPG key: [`780823EE8D48A6A7`](https://github.com/treemmett.gpg)
+- :key: GPG key: [`2DC0A19B758AD52B`](https://github.com/treemmett.gpg)
