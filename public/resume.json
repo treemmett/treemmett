@@ -35,13 +35,13 @@
       "url": "https://showcaseidx.com",
       "startDate": "2021-08",
       "highlights": [
-        "Optimized React and Ruby applications, decreasing CPU utilization by 60% resulting in 30% cost savings in GCP billing.",
-        "Upgraded front-end architecture improving time-to-first-byte by 70%, reducing cumulative layout shift from 157 to 0.01, and improving largest and first contentful paint from 3100ms to 57ms, resulting in a 6x increase of good urls.",
-        "Developed GPT chat bot capable of automating user queries, property searches, and lead conversions",
-        "Automated deployment process using Slack Apps to draft and publish release via GitHub Actions.",
-        "Updated application from React v0.14 to React v18, and added 100% TypeScript support and typings.",
-        "Team lead in migration to Next.js.",
-        "Mentored other UI engineers, coaching them in writing strongly typed components and classes."
+        "Enhanced the performance of React and Ruby applications, resulting in a 60% reduction in CPU utilization, leading to a substantial 30% cost savings in Google Cloud Platform (GCP) billing.",
+        "Successfully revamped the front-end architecture, achieving a remarkable 70% improvement in time-to-first-byte, reducing cumulative layout shift from 157 to a mere 0.01, and significantly enhancing largest and first contentful paint from 3100ms to a swift 57ms. These enhancements led to an impressive additional 96,000 pages being indexed, along with a notable increase of 20,300,000 Google impressions.",
+        "Designed and engineering of a GPT-powered chatbot, capable of seamlessly automating user queries, property searches, and lead conversions, streamlining and enhancing user interactions.",
+        "Implemented an automated deployment process utilizing Slack Apps to draft and publish releases via GitHub Actions, optimizing the development workflow.",
+        "Successfully upgraded the application from React v0.14 to React v18, introducing 100% TypeScript support and typings, enhancing code maintainability and robustness.",
+        "Assumed the role of team lead in overseeing the migration to Next.js, a pivotal step in modernizing the application architecture.",
+        "Demonstrated effective mentorship by providing guidance to fellow UI engineers, focusing on best practices for writing strongly typed components and classes."
       ]
     },
     {
@@ -51,10 +51,10 @@
       "startDate": "2020-07",
       "endDate": "2021-08",
       "highlights": [
-        "Designed in-house package management system supporting 40+ NPM modules, automatic publishing, while maintaining 100% coverage and strong TypeScript definitions.",
-        "Researched and development HIPAA compliant single-sign on service for patients and customer service representatives.",
-        "Migrated existing Rest APIs to message based serverless microservice.",
-        "Integrated Shopify storefront with in-house patient application and Salesforce CRM."
+        "Spearheaded the design of an in-house package management system that supports over 40 NPM modules, ensuring seamless automatic publishing while maintaining 100% code coverage and robust TypeScript definitions.",
+        "Developed a HIPAA-compliant single-sign-on service for patients and customer service representatives, ensuring data security and privacy compliance.",
+        "Orchestrated the migration of existing REST APIs to a message-based serverless microservice architecture, enhancing scalability and agility.",
+        "Seamlessly integrated the Shopify storefront with an in-house patient application and Salesforce CRM, facilitating efficient data flow and improved customer engagement."
       ]
     },
     {
@@ -64,9 +64,9 @@
       "endDate": "2020-06",
       "url": "http://nuvi.com",
       "highlights": [
-        "Developed automatic social media posting algorithm using TensorFlow for image classification.",
-        "Integrated app with multiple review platforms to collect, analyze, and consolidate all reviews for our clients using Golang, Node, and ElasticSearch.",
-        "Refactored app's image gallery and calendar view to be mobile responsive while reducing bundle-size by 80%."
+        "Developed an automatic social media posting algorithm using TensorFlow for image classification, enhancing content distribution.",
+        "Designed ETL solution to scrape multiple social media review sites, allowing for analysis and consolidation using Golang and ElasticSearch.",
+        "Optimized the application's user experience by refactoring the image gallery and calendar view to be mobile-responsive while significantly reducing the bundle size by 80%."
       ]
     },
     {
@@ -76,10 +76,10 @@
       "endDate": "2019-10",
       "url": "https://suralink.com",
       "highlights": [
-        "Team lead in charge of redeveloping app authentication and user management systems in compliance with the OAuth 2.0 spec.",
-        "Lead engineer in development of a SOC and PCI compliant encrypted file transfer app using Golang.",
-        "Created proprietary blockchain protocol designed to store file and signature integrities.",
-        "Developed v2 of the main app in React + Redux, Node, and GraphQL migrating away from a PHP and jQuery monolith."
+        "Led the team in charge of revamping the app authentication and user management systems, aligning them with the OAuth 2.0 specification for improved security and functionality.",
+        "Spearheaded the development of a secure, SOC, and PCI-compliant encrypted file transfer application using Golang, ensuring the protection of sensitive data.",
+        "Pioneered the creation of a proprietary blockchain protocol designed to safeguard file and signature integrities, contributing to data integrity and security.",
+        "Successfully executed the transition to version 2 of the main application, incorporating React, Redux, Node, and GraphQL, and migrating away from a legacy PHP and jQuery monolithic structure."
       ]
     },
     {
@@ -89,9 +89,9 @@
       "endDate": "2018-11",
       "url": "https://doterra.com",
       "highlights": [
-        "Responsible for developing multiple internal applications using Vue, React, Node, and Go that were used by senior IT staff, help desk staff, and 3,000 call center employees.",
-        "Configured and maintained Windows and CentOS servers running HTTP, DHCP, DNS, Active Directory, and Exchange services and configured networking rules compliant with PCI regulation.",
-        "Provided help desk support for over 3,000 employees, assisting with Mac and Windows machines, mobile devices, VoIP phones, and printers."
+        "Demonstrated a strong commitment to technology and innovation by developing multiple internal applications using Vue, React, Node, and Go, benefiting senior IT staff, help desk personnel, and 3,000 call center employees.",
+        "Expertly configured and maintained Windows and CentOS servers, overseeing critical services such as HTTP, DHCP, DNS, Active Directory, and Exchange, while ensuring compliance with PCI regulations for networking rules.",
+        "Provided exemplary help desk support to over 3,000 employees, offering assistance with Mac and Windows machines, mobile devices, VoIP phones, and printers."
       ]
     },
     {
@@ -126,9 +126,7 @@
         "MySQL",
         "MongoDB",
         "PHP",
-        "Server-Side Rendering",
-        "Salesforce",
-        "Shopify"
+        "Server-Side Rendering"
       ]
     },
     {
@@ -136,6 +134,7 @@
       "keywords": [
         "Google Cloud",
         "AWS",
+        "Firebase",
         "Serverless",
         "Kubernetes",
         "CI/CD",
@@ -146,8 +145,16 @@
       ]
     },
     {
+      "name": "Sales, Payment, and CRM",
+      "keywords": [
+        "Salesforce",
+        "Shopify",
+        "Stripe"
+      ]
+    },
+    {
       "name": "Test Automation",
-      "keywords": ["Cypress", "Jest", "Mocha", "Chai"]
+      "keywords": ["Playwright", "Cypress", "Jest", "Mocha", "Chai"]
     },
     {
       "name": "Mobile Development",
