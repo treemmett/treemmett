@@ -37,7 +37,7 @@
       "highlights": [
         "Enhanced the performance of React and Ruby applications, resulting in a 60% reduction in CPU utilization, leading to a substantial 30% cost savings in Google Cloud Platform (GCP) billing.",
         "Successfully revamped the front-end architecture, achieving a remarkable 70% improvement in time-to-first-byte, reducing cumulative layout shift from 157 to a mere 0.01, and significantly enhancing largest and first contentful paint from 3100ms to a swift 57ms. These enhancements led to an impressive additional 96,000 pages being indexed, along with a notable increase of 20,300,000 Google impressions.",
-        "Designed and engineering of a GPT-powered chatbot, capable of seamlessly automating user queries, property searches, and lead conversions, streamlining and enhancing user interactions.",
+        "Engineered and built an LLM-powered chatbot, capable of seamlessly automating user queries, property searches, and lead conversions, streamlining and enhancing user interactions.",
         "Implemented an automated deployment process utilizing Slack Apps to draft and publish releases via GitHub Actions, optimizing the development workflow.",
         "Successfully upgraded the application from React v0.14 to React v18, introducing 100% TypeScript support and typings, enhancing code maintainability and robustness.",
         "Assumed the role of team lead in overseeing the migration to Next.js, a pivotal step in modernizing the application architecture.",
