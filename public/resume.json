@@ -30,10 +30,25 @@
   },
   "work": [
     {
+      "name": "ONEngine",
+      "position": "Senior Software & AI Engineer",
+      "url": "https://onengine.ai",
+      "startDate": "2023-11",
+      "endDate": "2024-03",
+      "highlights": [
+        "Developed an automatic email parser that efficiently extracts and categorizes key information, significantly reducing manual data entry workload and enhancing data accuracy for administrative operations.",
+        "Leveraged TensorFlow to design and implement a machine learning model for automatic classification of job requests, achieving a high accuracy rate and streamlining the work order request handling process.",
+        "Principal engineer in charge of the development of a conversational AI using GPT technology to automate responses in email communications, improving response times and customer satisfaction levels.",
+        "Led a team of front-end developers, fostering a collaborative and innovative environment. Successfully delivered multiple high-impact projects on time and within budget, enhancing user experience and engagement.",
+        "Re-architecture of a major front-end application, implementing modern development practices and technologies. Achieved a more scalable, maintainable, and performance-optimized application, resulting in a significant improvement in load times, development times, and user satisfaction."
+      ]
+    },
+    {
       "name": "Showcase IDX",
       "position": "Senior Software Engineer",
       "url": "https://showcaseidx.com",
       "startDate": "2021-08",
+      "endDate": "2023-10",
       "highlights": [
         "Enhanced the performance of React and Ruby applications, resulting in a 60% reduction in CPU utilization, leading to a substantial 30% cost savings in Google Cloud Platform (GCP) billing.",
         "Successfully revamped the front-end architecture, achieving a remarkable 70% improvement in time-to-first-byte, reducing cumulative layout shift from 157 to a mere 0.01, and significantly enhancing largest and first contentful paint from 3100ms to a swift 57ms. These enhancements led to an impressive additional 96,000 pages being indexed, along with a notable increase of 20,300,000 Google impressions.",
@@ -134,6 +149,9 @@
       "keywords": [
         "Google Cloud",
         "AWS",
+        "Vercel",
+        "GitHub Actions",
+        "Jenkins",
         "Firebase",
         "Serverless",
         "Kubernetes",
